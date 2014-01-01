@@ -1,4 +1,4 @@
-from django.conf.urls.defaults import patterns, url, include
+from django.conf.urls import patterns, url, include
 from api.views import callback, logout, profiles, user, genotype
 
 urlpatterns = patterns('', 

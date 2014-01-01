@@ -1,4 +1,4 @@
-from django.conf.urls.defaults import *
+from django.conf.urls import *
 #from apidemo.views import index
 from django.views.generic import TemplateView
 

@@ -1,7 +1,7 @@
 api-example-django
 ============
 
-This is a Django app built on the 23andMe API and `Django 1.5.4` (pull requests for newer versions appreciated), that also pulls in data from
+This is a Django app built on the 23andMe API and `Django 1.6.1` (pull requests for newer versions appreciated), that also pulls in data from
 SNPedia.
 
 Clone the repo:
